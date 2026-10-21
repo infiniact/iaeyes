@@ -2,7 +2,9 @@
 
 IAEyes（目休）的公开介绍、隐私政策、服务协议与支持页面。
 
-服务运营及隐私政策、服务协议主体：INFINIACT CO., LIMITED（简称 INFINIACT）。
+服务运营及隐私政策、服务协议主体：个人开发者 Datie Xu。定位为工作间歇的休息工具，Apple 发行目标为 iPhone、iPad 和 Mac；实际可用版本以对应商店发布的信息为准。
+
+本网站继续托管在 `infiniact` GitHub 组织，支持邮箱保留 `support@infiniact.com`；托管位置及邮箱域名不改变上述个人服务主体。
 
 - 首页：https://infiniact.github.io/iaeyes/
 - 隐私政策：https://infiniact.github.io/iaeyes/privacy/
