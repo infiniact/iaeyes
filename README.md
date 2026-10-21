@@ -1,9 +1,12 @@
 # IAEyes
 
-IAEyes（目休）的公开介绍、隐私政策与支持页面。
+IAEyes（目休）的公开介绍、隐私政策、服务协议与支持页面。
+
+服务运营及隐私政策、服务协议主体：INFINIACT CO., LIMITED（简称 INFINIACT）。
 
 - 首页：https://infiniact.github.io/iaeyes/
 - 隐私政策：https://infiniact.github.io/iaeyes/privacy/
+- 服务协议：https://infiniact.github.io/iaeyes/terms/
 - 使用帮助与支持：https://infiniact.github.io/iaeyes/support/
 - 联系邮箱：support@infiniact.com
 
